@@ -14,7 +14,7 @@
 
 - Expression: Expression হলো Operands + Operators এর সমন্বয়, যা একটি ভ্যালু রিটার্ন করে।
 
-  50 + 10 +20
+  50 + 10 +20 <br>
   60
 
 ## Different Types of Operators
